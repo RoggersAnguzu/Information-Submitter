@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\obj\Debug\IFSTATEMENT.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\obj\Debug\IFSTATEMENT.Form1.resources
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\obj\Debug\IFSTATEMENT.Properties.Resources.resources
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\obj\Debug\IFSTATEMENT.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\obj\Debug\IFSTATEMENT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\bin\Debug\IFSTATEMENT.exe.config
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\bin\Debug\IFSTATEMENT.exe
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\bin\Debug\IFSTATEMENT.pdb
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\obj\Debug\IFSTATEMENT.exe
+C:\Users\Admin\source\repos\IFSTATEMENT\IFSTATEMENT\obj\Debug\IFSTATEMENT.pdb
