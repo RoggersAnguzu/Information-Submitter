@@ -23,9 +23,6 @@ Enter the year of birth to calculate the user's age.
 Optionally, provide a photo, password, and gender.
 Click the "Calculate Age" button to display the calculated age.
 Choose to submit the collected data by clicking the "Submit" button or cancel the operation using the "Cancel" button.
-## Screenshots
-App Screenshot
-![AgeCalculator](https://github.com/RoggersAnguzu/PersonalInfoSubmissionApp/assets/141458053/892f8ed1-b2dd-4440-ae23-8f8cbf2203c2)
 
 ## Getting Started
 To get started with the PersonalInfoSubmissionApp, follow these steps:
